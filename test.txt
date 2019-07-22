@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Testdesu_c
 Yes_b
-=======
 Testdesu
 Yes_a
->>>>>>> buranch_a
 No
